@@ -1,7 +1,6 @@
 # Zero-Shot Text Classification
 ## Task Description
-The task is to perform zero-shot text
-classification by utilizing Clip model. Specifically, the  CLIPTEXT model, a novel paradigm for zero-shot text classification, which reformulates zero-shot text
+The task is to utilize Clip model to perform zero-shot text classification. Specifically, the  CLIPTEXT model, a novel paradigm for zero-shot text classification, which reformulates zero-shot text
 classification into a text-image matching problem that CLIP can be applied.
 
 
